@@ -1,0 +1,1 @@
+print("Dear Mayank,\n you are selected for the job,\n hope you have a good day.")
